@@ -124,7 +124,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="MyStringClass.cpp" />
-    <ClCompile Include="MyStringTests.cpp" />
     <ClCompile Include="StringClassExercise.cpp" />
   </ItemGroup>
   <ItemGroup>

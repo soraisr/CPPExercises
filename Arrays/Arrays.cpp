@@ -1,6 +1,5 @@
 #include <array>
 #include <iostream>
-#include <stdexcept>
 #include <cassert>
 
 template<size_t size>
