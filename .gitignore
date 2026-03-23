@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio generated files
+*.obj
+*.ilk
+*.pdb
+*.ipch
+*.tlog
+*.lastbuildstate
+*.log
+
+# Executables / binaries
+*.exe
+*.out
+*.app
+*.dll
+*.lib
+
+# User-specific files
+*.user
+*.suo
+
+# Temporary files
+*.tmp
+*.cache
